@@ -1,0 +1,8 @@
+{
+    "cmake.debugConfig": {
+        "MIMode": "gdb",
+        "miDebuggerPath": "/usr/bin/gdb"
+    },
+    "cmake.generator": "Unix Makefiles",
+    "cmake.configureOnOpen": true
+}
