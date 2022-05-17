@@ -10,4 +10,4 @@ How to use this repository:
 - use the template to create a repository
 - in VSCode, clone your repository
 
-Alternatively, you can read a more detailed tutorial on my blog.
+Alternatively, you can read a more detailed [tutorial on my blog](https://itnext.io/simple-and-consistent-c-development-environment-c08cf8d93ed9).
